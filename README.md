@@ -30,21 +30,39 @@ In below case study I will discuss the step by step approach to create a Machine
 # Data description
 The business meaning of each column in the data is as below
 Restaurant ID: The id for each restaurant
+
 Restaurant Name: The brand/restaurant name
+
 Country Code: In which country the restaurant is operating
+
 City: In which city the restaurant is operating
+
 Address: What is the address of the restaurant
+
 Locality: What is the locality of the restaurant
+
 Locality Verbose: Detailed locality description
+
 Longitude: GPS longitude location
+
 Latitude: GPS latitude location
+
 Cuisines: Various type of food offered
+
 Currency: The business currency
+
 Has Table booking: Is advance table booking facility available?
+
 Has Online delivery: Does they take online food orders?
+
 Is delivering now: It is open now?
+
 Switch to order menu: Whether switch to order menu is available?
+
 Price range: The price range of the restaurant
+
 Votes: The number of people who voted for the rating
+
 Average Cost for two: The typical cost for two people
+
 Rating: The final rating of the restaurant
